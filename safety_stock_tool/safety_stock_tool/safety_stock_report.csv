@@ -1,0 +1,41 @@
+sku,product,category,avg_daily_demand,demand_std_dev,lead_time_days,lead_time_std_days,safety_stock,reorder_point,current_stock,safety_stock_value,status,suggested_order_qty,recommended_action
+SKU0009,Product 9,Stationery,8.89,3.98,6.0,2.4,39,92,32,1528.8,CRITICAL,114,Order immediately (at or below safety stock)
+SKU0032,Product 32,Electronics,14.67,11.36,15.0,0.7,75,295,34,7300.5,CRITICAL,481,Order immediately (at or below safety stock)
+SKU0001,Product 1,Clothing,7.09,1.75,15.0,2.8,35,141,37,6638.8,REORDER,211,Place order now (below reorder point)
+SKU0002,Product 2,Toys,10.76,4.53,21.0,0.7,37,263,259,763.68,REORDER,230,Place order now (below reorder point)
+SKU0003,Product 3,Grocery,12.91,10.5,16.0,2.0,82,288,123,772.44,REORDER,372,Place order now (below reorder point)
+SKU0004,Product 4,Electronics,9.1,3.43,4.0,3.4,53,89,63,5888.83,REORDER,63,Place order now (below reorder point)
+SKU0011,Product 11,Home,11.53,8.76,17.0,2.5,77,273,232,12003.53,REORDER,238,Place order now (below reorder point)
+SKU0013,Product 13,Electronics,8.12,2.72,19.0,2.2,36,190,175,4166.64,REORDER,170,Place order now (below reorder point)
+SKU0022,Product 22,Electronics,4.58,3.2,9.0,3.2,29,71,66,2892.75,REORDER,47,Place order now (below reorder point)
+SKU0024,Product 24,Electronics,6.01,2.49,15.0,2.4,29,119,70,1013.26,REORDER,140,Place order now (below reorder point)
+SKU0033,Product 33,Grocery,7.76,2.2,6.0,1.7,24,70,26,2141.76,REORDER,91,Place order now (below reorder point)
+SKU0035,Product 35,Toys,11.58,5.68,9.0,2.6,57,162,76,401.85,REORDER,191,Place order now (below reorder point)
+SKU0039,Product 39,Clothing,4.79,1.93,18.0,3.4,30,117,82,4457.7,REORDER,122,Place order now (below reorder point)
+SKU0005,Product 5,Grocery,4.39,1.91,21.0,3.8,31,124,295,3932.66,OK,0,No action
+SKU0006,Product 6,Toys,1.39,0.53,10.0,0.7,4,18,68,322.16,OK,0,No action
+SKU0007,Product 7,Clothing,3.26,1.96,20.0,0.9,16,81,157,1359.84,OK,0,No action
+SKU0008,Product 8,Toys,5,2.59,8.0,0.9,15,55,292,2453.85,OK,0,No action
+SKU0010,Product 10,Toys,4.13,1.23,9.0,2.2,17,54,272,234.6,OK,0,No action
+SKU0012,Product 12,Clothing,6.32,2.31,8.0,2.9,33,83,124,2024.55,OK,0,No action
+SKU0014,Product 14,Stationery,7.01,3.68,5.0,0.9,18,53,214,1635.66,OK,0,No action
+SKU0015,Product 15,Grocery,11.44,2.76,7.0,3.8,73,153,215,11089.43,OK,0,No action
+SKU0016,Product 16,Electronics,4.72,2.61,5.0,3.2,27,51,293,5196.96,OK,0,No action
+SKU0017,Product 17,Clothing,5.13,4.55,14.0,2.6,36,108,296,2496.24,OK,0,No action
+SKU0018,Product 18,Home,7.38,2.48,5.0,3.8,48,84,242,749.76,OK,0,No action
+SKU0019,Product 19,Stationery,11.54,3.82,4.0,3.1,61,107,158,8143.5,OK,0,No action
+SKU0020,Product 20,Stationery,9.18,2.46,17.0,1.5,29,185,197,3376.47,OK,0,No action
+SKU0021,Product 21,Stationery,11.3,8.73,17.0,1.7,68,260,312,4808.28,OK,0,No action
+SKU0023,Product 23,Stationery,11.13,3.38,15.0,3.7,72,239,254,3674.16,OK,0,No action
+SKU0025,Product 25,Home,3.61,3.37,11.0,3.0,26,66,183,4499.82,OK,0,No action
+SKU0026,Product 26,Stationery,2.91,2.08,10.0,1.0,12,41,90,2124.84,OK,0,No action
+SKU0027,Product 27,Grocery,11.79,9.77,10.0,0.5,52,170,301,2492.36,OK,0,No action
+SKU0028,Product 28,Grocery,3.94,1.32,3.0,1.0,8,20,273,432.16,OK,0,No action
+SKU0029,Product 29,Clothing,6.38,3.71,13.0,3.8,46,129,353,5646.04,OK,0,No action
+SKU0030,Product 30,Toys,6.08,2.36,4.0,2.1,23,47,399,4373.22,OK,0,No action
+SKU0031,Product 31,Stationery,2.27,1.81,15.0,1.9,14,48,201,2239.72,OK,0,No action
+SKU0034,Product 34,Electronics,11.99,7.54,7.0,2.4,58,142,186,118.9,OK,0,No action
+SKU0036,Product 36,Stationery,8.03,6.65,14.0,2.6,54,166,242,2805.3,OK,0,No action
+SKU0037,Product 37,Electronics,8.24,4.42,18.0,4.0,63,211,238,1564.92,OK,0,No action
+SKU0038,Product 38,Home,4.84,3.48,5.0,1.0,16,40,383,1564.8,OK,0,No action
+SKU0040,Product 40,Toys,9.51,6.03,19.0,1.8,52,233,353,341.64,OK,0,No action
